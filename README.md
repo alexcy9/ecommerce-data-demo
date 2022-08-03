@@ -15,7 +15,6 @@ This project uses NPM and Maven as the build tools.
 ```
 cd frontend
 npm install
-npm start
 ```
 
 ### Backend
